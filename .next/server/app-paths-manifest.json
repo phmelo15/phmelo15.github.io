@@ -1,4 +1,11 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/FindJob/page": "app/FindJob/page.js",
+  "/Register/page": "app/Register/page.js",
+  "/HomePrivate/page": "app/HomePrivate/page.js",
+  "/Home/page": "app/Home/page.js",
+  "/RecoveryPassword/page": "app/RecoveryPassword/page.js",
+  "/Login/page": "app/Login/page.js",
   "/page": "app/page.js",
-  "/Home/page": "app/Home/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

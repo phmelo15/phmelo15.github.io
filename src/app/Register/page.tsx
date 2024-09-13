@@ -41,10 +41,11 @@ export default function Register() {
           changeEye={handleChangeEye}
         />
         <ButtonDefault
+          route=""
           marginBottom="mb-6"
           title="Enviar"
           marginTop="mt-6"
-          onClick={() => null}
+          // onClick={() => null}
         />
         <p className={styles.TextRemember}>
           Se lembra da senha?{" "}

@@ -36,10 +36,11 @@ export default function Register() {
         <AuthInput placeholder="Endereco de e-mail" />
 
         <ButtonDefault
+          route=""
           marginBottom="mb-8"
           title="Enviar"
           marginTop="mt-12"
-          onClick={handleShowModal}
+          // onClick={() => null}
         />
         <p className={styles.TextRemember}>
           Se lembra da senha?{" "}
